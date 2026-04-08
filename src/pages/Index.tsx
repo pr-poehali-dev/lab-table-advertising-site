@@ -171,9 +171,9 @@ export default function Index() {
           </nav>
 
           <div className="flex items-center gap-3">
-            <a href="tel:+74951234567" className="hidden md:flex items-center gap-2 text-sm font-medium text-[#1a1f2e] hover:text-[#0e92b8] transition-colors">
+            <a href="tel:+78937779362" className="hidden md:flex items-center gap-2 text-sm font-medium text-[#1a1f2e] hover:text-[#0e92b8] transition-colors">
               <Icon name="Phone" size={14} />
-              +7 (495) 123-45-67
+              8 (937) 777-93-62
             </a>
             <button
               className="md:hidden p-2"
@@ -434,7 +434,7 @@ export default function Index() {
           <div className="grid md:grid-cols-2 gap-12 max-w-5xl mx-auto">
             <div className="space-y-6">
               {[
-                { icon: "Phone", label: "Телефон", value: "+7 (495) 123-45-67" },
+                { icon: "Phone", label: "Телефон", value: "8 (937) 777-93-62" },
                 { icon: "Mail", label: "Email", value: "info@labtech.ru" },
                 { icon: "MapPin", label: "Адрес", value: "Москва, ул. Производственная, 12, стр. 3" },
                 { icon: "Clock", label: "Режим работы", value: "Пн–Пт: 9:00 – 18:00" },
