@@ -15,7 +15,7 @@ const PRODUCTS = [
     name: "Стол лабораторный СЛ-1500",
     category: "Рабочие столы",
     price: "от 48 500 ₽",
-    image: "https://cdn.poehali.dev/files/b4e01192-31d1-4024-8e2d-bda8d59cc865.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: "Хит продаж",
     specs: {
       "Размеры": "1500 × 750 × 900 мм",
@@ -31,7 +31,7 @@ const PRODUCTS = [
     name: "Стол вытяжной СВ-1200",
     category: "Вытяжные столы",
     price: "от 72 000 ₽",
-    image: "https://cdn.poehali.dev/files/06cd05ef-483f-4dc0-ba25-fe8a2435a56b.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: "Новинка",
     specs: {
       "Размеры": "1200 × 800 × 2200 мм",
@@ -47,7 +47,7 @@ const PRODUCTS = [
     name: "Стол весовой СВЕ-900",
     category: "Весовые столы",
     price: "от 35 200 ₽",
-    image: "https://cdn.poehali.dev/files/ca0cf5fb-d49f-4669-87d2-36eb5b0f52ad.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: null,
     specs: {
       "Размеры": "900 × 650 × 750 мм",
@@ -63,7 +63,7 @@ const PRODUCTS = [
     name: "Шкаф реактивов ШР-800",
     category: "Шкафы хранения",
     price: "от 28 900 ₽",
-    image: "https://cdn.poehali.dev/files/7ada4a3a-9b93-415c-bdf2-9d64fd42887f.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: null,
     specs: {
       "Размеры": "800 × 500 × 1800 мм",
@@ -79,7 +79,7 @@ const PRODUCTS = [
     name: "Стол островной СО-2000",
     category: "Островные столы",
     price: "от 95 000 ₽",
-    image: "https://cdn.poehali.dev/files/c499c29b-697f-4f24-918d-bd47c0b9a5c2.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: "Премиум",
     specs: {
       "Размеры": "2000 × 1500 × 900 мм",
@@ -95,7 +95,7 @@ const PRODUCTS = [
     name: "Мойка лабораторная МЛ-600",
     category: "Мойки",
     price: "от 18 400 ₽",
-    image: "https://cdn.poehali.dev/files/51bd2c3d-be27-4e08-8f6c-c5a23592a300.jpg",
+    image: "https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg",
     badge: null,
     specs: {
       "Размеры": "600 × 500 × 200 мм",
@@ -233,7 +233,7 @@ export default function Index() {
           <div className="relative fade-in" style={{ animationDelay: "0.2s" }}>
             <div className="aspect-[4/3] bg-[#f5f7fa] rounded-sm overflow-hidden">
               <img
-                src="https://cdn.poehali.dev/files/896f92eb-d2b2-4c77-9df3-09068bc4a6f1.jpg"
+                src="https://cdn.poehali.dev/projects/387fa6d5-9f59-4368-bcd2-e91eac984574/files/cc132d0b-5fec-4820-b53a-6f23b460e8d5.jpg"
                 alt="Лабораторный стол"
                 className="w-full h-full object-cover"
               />
